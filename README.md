@@ -9,4 +9,5 @@ bat 安装为 windows 服务，可实现 jar 等程序安装到 windows 服务
 `ShutdownBatFilePath`: 停止服务的bat文件  
 
 # 使用示例
-待更新
+[springboot-install-to-service](https://github.com/l634666/springboot-demo/tree/master/springboot-install-to-service-demo
+)
